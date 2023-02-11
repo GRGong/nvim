@@ -1,4 +1,4 @@
-set mouse=nc
+set mouse=ncv
 set number
 set cursorline
 set noswapfile
@@ -10,7 +10,8 @@ lua require("plugins")
 lua require('plugin-config/nvim-treesitter')
 lua require('plugin-config/nvim-tree')
 lua require('plugin-config/nvim-bufferline')
-
+lua require('plugin-config/nvim-scrollbar')
+lua require('plugin-config/nvim-smooth')
 
 
 nnoremap   <silent>   <F1>   :FloatermToggle<CR>

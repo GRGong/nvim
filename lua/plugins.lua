@@ -16,4 +16,6 @@ return require('packer').startup(function()
 }
   use "rebelot/kanagawa.nvim"
   use 'lewis6991/impatient.nvim'
+  use 'petertriho/nvim-scrollbar'
+  use 'karb94/neoscroll.nvim'
 end)
