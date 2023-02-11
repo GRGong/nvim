@@ -3,7 +3,7 @@
 
 
 ### Usage
-install neovim fist
+Install neovim first
 
 ```
 git clone https://github.com/GRGong/nvim.git ~/.config/nvim
