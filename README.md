@@ -14,5 +14,5 @@ nvim
 
 :PackerSync
 ```
-All down!
+All done!
 
