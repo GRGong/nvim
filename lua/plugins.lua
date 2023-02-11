@@ -15,4 +15,5 @@ return require('packer').startup(function()
   requires = { {'nvim-lua/plenary.nvim'} }
 }
   use "rebelot/kanagawa.nvim"
+  use 'lewis6991/impatient.nvim'
 end)
